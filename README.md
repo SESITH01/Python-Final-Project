@@ -30,7 +30,7 @@ For our CSE-120 group project, we transformed the classic game of hangman into a
 
 ## Credits
 
-This project was completed as part of my Data Structures course. Special thanks to Dr. Pamela Thomas for the guidance and support throughout the project.
+This project was completed as part of my CSE-120 Intro to Python course. Special thanks to Dr. Pamela Thomas for the guidance and support throughout the project.
 
 ## Tools Used
 
